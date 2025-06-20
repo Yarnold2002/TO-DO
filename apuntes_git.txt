@@ -1,0 +1,16 @@
+git init
+
+
+//Prepara todos los archivos para el commit
+git add .
+
+//Guarda los cambios en el repositorio local y describe con un mensaje
+git commit -m "mensaje de lo que se va a subir"
+
+//Cambia de rama 
+git branch -M main
+
+//
+
+
+

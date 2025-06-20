@@ -1,0 +1,5 @@
+--instala el package.json en la ruta del proyecto: PS C:\code\TO-DO> 
+npm init -y 
+
+--instala el express en la ruta del proyecto: PS C:\code\TO-DO> 
+npm i express
