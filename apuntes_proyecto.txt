@@ -3,3 +3,9 @@ npm init -y
 
 --instala el express en la ruta del proyecto: PS C:\code\TO-DO> 
 npm i express
+
+npm i morgan
+
+npm i cors
+
+npm i nodemon

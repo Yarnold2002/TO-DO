@@ -10,7 +10,10 @@ git commit -m "mensaje de lo que se va a subir"
 //Cambia de rama 
 git branch -M main
 
-//
+//Subir los cambios (Se debe hacer desde branch main)
+git push
 
+//Descargar los cambios (Se debe hacer desde branch main)
+git pull
 
 
